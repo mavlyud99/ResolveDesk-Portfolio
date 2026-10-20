@@ -24,6 +24,23 @@ https://resolvedesk-jrax.onrender.com/login
 - View reporting dashboards and export CSV reports
 - Input validation and authorization controls
 
+## Application Screenshots
+
+### Ticket Management
+![Ticket Management](01-ticket-management.png)
+
+### Ticket Status Reporting
+![Ticket Status Report](02-status-report.png)
+
+### Assigned Workload Reporting
+![Assigned Workload Report](03-workload-report.png)
+
+### Ticket Creation and Validation
+![Ticket Validation](04-ticket-validation.png)
+
+### Automated Testing
+![11 Passing Automated Tests](05-automated-tests.png)
+
 ## Testing
 The application was developed with automated testing using JUnit and Mockito. The capstone evaluation documented 11 passing automated tests.
 
