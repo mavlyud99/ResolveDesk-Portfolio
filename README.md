@@ -1,8 +1,8 @@
-# ResolveDesk-Portfolio
-Full-stack support ticket management application built with Java, Spring Boot, PostgreSQL, and Spring Security.  Copy  4.
 # ResolveDesk — Support Ticket Management System
 
-ResolveDesk is a full-stack web application designed to help teams create, assign, manage, and track support tickets through a centralized interface.
+ResolveDesk is a full-stack web application designed
+to help teams create, assign, manage, and track
+support tickets through a centralized interface.
 
 ## Live Demo
 https://resolvedesk-jrax.onrender.com/login
